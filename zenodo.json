@@ -235,4 +235,14 @@
     "is_latest": true,
     "is_latest_draft": true
   }
+  "keywords" : [
+  "local-linear-regression",
+  "local-regression",
+  "weighted-least-squares",
+  "nonparametric-regression",
+  "statistical-modeling",
+  "data-analysis",
+  "mortality-rate",
+  "poverty",
+]
 }
